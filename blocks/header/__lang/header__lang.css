@@ -1,0 +1,7 @@
+.header__lang {
+  margin: 0;
+  margin-top: 18px;
+  margin-right: 0;
+  display: flex;
+  align-items: flex-end;
+}

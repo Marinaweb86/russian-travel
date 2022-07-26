@@ -1,0 +1,10 @@
+.header__lang-link_active {
+  margin-right: 18px;
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .header__lang-link_active {
+    margin-right: 18px;
+  }
+}

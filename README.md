@@ -40,7 +40,6 @@
  - Основы семантики HTML;
  - Методолгия БЭМ;
  - Пути к файлам и организация файлов по БЭМ;
- - Псевдоклассы;
  - Позиционирование элементов;
  Работа с макетом:
  -Знакомство с Figma;
@@ -49,3 +48,6 @@
  Технология Grid Layout
  Разработка интерфейса для разных устройств.
 
+[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
+
+[Ссылка на сайт](https://github.com/Marinaweb86/russian-travel.index.html)
