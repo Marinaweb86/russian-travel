@@ -1,6 +1,6 @@
 .place {
   margin: 0 auto;
-  max-width: 100%;
+  min-width: 100%;
   display: grid;
   grid-template-columns: 460px 484px;
   column-gap: 40px;
@@ -27,7 +27,7 @@
   .place {
     display: flex;
     flex-direction: column;
-    max-width: 100%;
+    min-width: 100%;
     gap: 0;
   }
 }
